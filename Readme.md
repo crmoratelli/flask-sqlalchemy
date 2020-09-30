@@ -1,9 +1,8 @@
-Simple example of integration of Flask and SQLAlchemy. Includes Basic Authentication.
+Simple example of integration between Flask and SQLAlchemy. Includes Basic Authentication.
 
 1. Enviroment Setup
 
-    1.1. Clone recursive (submodules)
-        $ git clone https://github.com/crmoratelli/flask-sqlalchemy.git
+    $ git clone https://github.com/crmoratelli/flask-sqlalchemy.git
 
     $ cd flask-sqlalchemy
 
@@ -23,5 +22,5 @@ Simple example of integration of Flask and SQLAlchemy. Includes Basic Authentica
 
 4. Rest's Access
 
-    Use Postman to test the rests. 
+    Use Postman or CURL to test the rests. 
 
